@@ -1,0 +1,16 @@
+h1{
+   color: tomato;
+   font-family: algerian;
+   text-align: center;
+   font-size: 30px; 
+}
+div.money{
+    margin: 40px;
+    padding: 50px;
+}
+div{
+    background-color: red;
+    height: 60%;
+    width: 60%;
+    
+}
